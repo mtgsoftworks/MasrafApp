@@ -17,7 +17,7 @@ Cross-platform expense tracking application
 
 ## About
 
-masraf_app is a modern expense tracking application built with Flutter that helps users manage their personal finances across mobile, web, and desktop platforms. It provides intuitive UI, secure authentication, and powerful analytics.
+MasrafApp is a modern expense tracking application built with Flutter that helps users manage their personal finances across mobile, web, and desktop platforms. It provides intuitive UI, secure authentication, and powerful analytics.
 
 ## Features
 
@@ -105,23 +105,8 @@ masraf_app/
 └── README.md
 ```
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-git checkout -b feature/your-feature
-```
-3. Make your changes and commit:
-   ```bash
-git commit -m "Add new feature"
-```
-4. Push to your branch:
-   ```bash
-git push origin feature/your-feature
-```
 5. Open a pull request for review.
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. 
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
