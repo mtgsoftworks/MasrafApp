@@ -1,4 +1,4 @@
-# masraf_app
+# MasrafApp
 
 Cross-platform expense tracking application
 
