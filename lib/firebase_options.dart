@@ -26,46 +26,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBboBJgcVO8KjkCm-XD4jv06vBUPE_fj-8',
-    authDomain: 'hackathon-632ae.firebaseapp.com',
-    projectId: 'hackathon-632ae',
-    storageBucket: 'hackathon-632ae.firebasestorage.app',
-    messagingSenderId: '984774205172',
-    appId: '1:984774205172:web:7f7e4a27d114c21deb08a1',
-    measurementId: 'G-YB49GQE1WX',
+    apiKey: 'YOUR_API_KEY',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    appId: 'YOUR_APP_ID',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBboBJgcVO8KjkCm-XD4jv06vBUPE_fj-8',
-    appId: '1:984774205172:android:943fbd33ad49259eeb08a1',
-    messagingSenderId: '984774205172',
-    projectId: 'hackathon-632ae',
-    storageBucket: 'hackathon-632ae.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBboBJgcVO8KjkCm-XD4jv06vBUPE_fj-8',
-    appId: '1:984774205172:ios:XXXXXXXXXXXXXXXXXXXXXX',
-    messagingSenderId: '984774205172',
-    projectId: 'hackathon-632ae',
-    storageBucket: 'hackathon-632ae.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions macos = ios;
 
   static const FirebaseOptions linux = FirebaseOptions(
-    apiKey: 'AIzaSyBboBJgcVO8KjkCm-XD4jv06vBUPE_fj-8',
-    appId: '1:984774205172:linux:XXXXXXXXXXXXXXXXXXXXXX',
-    messagingSenderId: '984774205172',
-    projectId: 'hackathon-632ae',
-    storageBucket: 'hackathon-632ae.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBboBJgcVO8KjkCm-XD4jv06vBUPE_fj-8',
-    appId: '1:984774205172:windows:XXXXXXXXXXXXXXXXXXXXXX',
-    messagingSenderId: '984774205172',
-    projectId: 'hackathon-632ae',
-    storageBucket: 'hackathon-632ae.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 }
